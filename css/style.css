@@ -1,0 +1,38 @@
+.a{
+    text-align: right;
+    color: rgb(172, 143, 154);
+    font-size: 24px;
+    font-weight: bolder;
+    padding: 20px;
+    
+}
+.b{
+    text-align: right;
+    padding: 0x;
+}
+.container{
+
+    margin: 0 auto;
+    max-width: 1100px;
+    display:flex
+    
+}
+p{
+    text-align:justify;
+    padding: 0 20px;
+}
+body{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgba(54, 40, 40, 0.979);
+    background-image: url(../imagem/fundo3.png);
+    font-size: 18px;
+    padding: 0px;
+   
+}
+.t{
+    text-align: left;
+    font-weight: bolder;
+    padding: 10px;
+    margin: 30px;   
+}
